@@ -1,0 +1,13 @@
+  name : HEI
+	domain : IT,
+	annee de creation: 2021,
+	number of students: 200,
+  students:
+    - id : STD00001
+      name: Rakoto
+      grade: L2
+      year: 2023
+    - id : STD00002
+      name: Rabe
+      grade: L3
+      year: 2024
